@@ -1,0 +1,9 @@
+google-genai
+pydantic
+pandas
+pillow
+python-dotenv
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
