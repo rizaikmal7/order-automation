@@ -10,3 +10,5 @@ duplicate_log.csv
 confirmations.txt
 batch1/
 batch2/
+!sample_data/
+!sample_data/*
